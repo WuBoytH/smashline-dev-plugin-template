@@ -19,3 +19,5 @@ Return to the Character Select Screen before performing this command
 
 For any and all other questions, please refer to the smashline wiki, specifically https://github.com/blu-dev/smashline/wiki/The-Development-Plugin.
 For any further questions, feel free to DM WuBoy#0238 on Discord.
+
+Special thanks to blujay for their work on Smashline and Ultimate modding in general.
