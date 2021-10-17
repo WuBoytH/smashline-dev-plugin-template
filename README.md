@@ -9,6 +9,8 @@ Then, make sure you set your Switch's IP using cargo skyline set-ip your.ip.here
 Some things to keep in mind:
 
 In your lib.rs, you must change the name in #[skyline::main(name = "Replace with the same name as your plugin")] to be the same as your main plugin's.
+For example: in The WuBor Patch's lib.rs, the header reads #[skyline::main(name = "the_wubor_patch")].
+The header must be the same in your development plugin.
 
 Any and all ACMD changes must go into custom/mod.rs due to the limitation of only allowing one #{installer] function in the development plugin.
 
